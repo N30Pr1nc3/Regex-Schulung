@@ -21,6 +21,11 @@
 	{n,m}   Zwischen n und m mal
 ```
 
+# Gruppen
+```
+	(...)   Drei beliebige Zeichen als Gruppe
+```
+
 https://regex101.com/
 
 
