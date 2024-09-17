@@ -1,15 +1,11 @@
 # Generelle Platzhalter
 ```
 	.       Jegliches Zeichen
-	\n      Zeilenumbruch
 	\s      Alle Leerzeichen (Tabulator, Leerzeichen, Zeilenumbruch)
 	\d      Ziffern
 	\D      Alles ausser Ziffern
 	\w      Zahlen und Buchstaben
-	\W      Alles ausser Zahlen und Buchstaben	
-	^       Zeilenanfang 
-	$       Zeilenende
-	
+	\W      Alles ausser Zahlen und Buchstaben		
 
 	Jedes Zeichen das hier als Platzhalter dient kann mit einem \ escaped werden
 	\\      \
