@@ -22,8 +22,8 @@
 	a?      0 oder ein mal
 	a+      1 oder mehr
 	a*      0 oder mehr
-	{n}     genau n mal
-	{n,m}   Zwischen n und m mal
+	a{n}    a genau n mal
+	a{n,m}  a Zwischen n und m mal
 ```
 
 
