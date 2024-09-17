@@ -11,10 +11,10 @@
 	$       Zeilenende
 	
 
-    Jedes Zeichen das hier als Platzhalter dient kann mit einem \ escaped werden
-    \\      \
-    \.      .
-    \$      $
+	Jedes Zeichen das hier als Platzhalter dient kann mit einem \ escaped werden
+	\\      \
+	\.      .
+	\$      $
 	
 ```
 
