@@ -5,7 +5,9 @@
 	\d      Ziffern
 	\D      Alles ausser Ziffern
 	\w      Zahlen und Buchstaben
-	\W      Alles ausser Zahlen und Buchstaben		
+	\W      Alles ausser Zahlen und Buchstaben
+        $       Zeilen ende
+        ^       Zeilenanfang
 
 	Jedes Zeichen das hier als Platzhalter dient kann mit einem \ escaped werden \. ergibt .
 	
@@ -33,7 +35,9 @@ https://regex101.com/
 Tobias Schumacher 
 Krautgartenweg 3a
 87754 Kammlach
-Geb. am 26.08.1990
+Geb. am 26.08.1990 in Waldshut
 Email: tobias_schumacher@outlook.com
-Angestellt seit 01-07-2010
+01-07-2010 Ersteinstellung
+bei Rudolf Hörmann
+Rudolf Hörmann Str 1
 ```
