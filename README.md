@@ -10,7 +10,10 @@
 	Jedes Zeichen das hier als Platzhalter dient kann mit einem \ escaped werden \. ergibt .
 	
 ```
-
+# Gruppen
+```
+	(...)   Drei beliebige Zeichen als Gruppe
+```
 # Mengen Angaben 
 ```
 	a|b     Entweder a oder b
@@ -21,10 +24,7 @@
 	{n,m}   Zwischen n und m mal
 ```
 
-# Gruppen
-```
-	(...)   Drei beliebige Zeichen als Gruppe
-```
+
 
 https://regex101.com/
 
