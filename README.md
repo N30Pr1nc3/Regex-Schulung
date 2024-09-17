@@ -7,10 +7,7 @@
 	\w      Zahlen und Buchstaben
 	\W      Alles ausser Zahlen und Buchstaben		
 
-	Jedes Zeichen das hier als Platzhalter dient kann mit einem \ escaped werden
-	\\      \
-	\.      .
-	\$      $
+	Jedes Zeichen das hier als Platzhalter dient kann mit einem \ escaped werden \. ergibt .
 	
 ```
 
